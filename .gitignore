@@ -11,14 +11,14 @@ Build/
 Builds/
 
 # Wwise Project
-Wwise/IncrementalSoundBankData.xml
-Wwise/.cache/
-Wwise/.backup/
-Wwise/*.akd
-Wwise/*.akpk
-Wwise/*.prof
-Wwise/*.validationcache
-Wwise/*.wsettings
+IncrementalSoundBankData.xml
+.cache/
+.backup/
+*.akd
+*.akpk
+*.prof
+*.validationcache
+*.wsettings
 
 # Fmod Project
 FMOD/.user/
